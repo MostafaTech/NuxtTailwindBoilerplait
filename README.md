@@ -1,5 +1,5 @@
-# NuxtTailwindBoilerplait
-Nuxt.js (vue) + TailwindCSS + SCSS Boilerplait
+# NuxtTailwindBoilerplate
+Nuxt.js (vue) + TailwindCSS + SCSS Boilerplate
 
 ## Setup
 
